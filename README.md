@@ -1,4 +1,4 @@
-https://rakaso598.github.io/xlsx-generator/
+https://rexondex.github.io/xlsx-generator/
 
 xlsx-generator는 사용자가 입력한 CSV 데이터를 바탕으로 엑셀 파일을 자동으로 생성할 수 있는 웹 애플리케이션입니다. 이 도구는 간단한 인터페이스를 통해 데이터를 입력하고, 바로 엑셀 파일을 다운로드할 수 있는 기능을 제공하며, 사용자 친화적인 경험을 제공합니다.   
 - CSV 포맷: CSV는 데이터를 텍스트 파일로 간단하게 저장할 수 있는 방법으로 널리 사용됩니다. 특히 엑셀 파일을 다룰 때 유용하게 사용됩니다.  
